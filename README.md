@@ -5,5 +5,7 @@
 * <a href="https://ruby.social/@gd" rel="me">@gd@ruby.social</a>
 * <a href="https://hachyderm.io/@gcd" rel="me">@gcd@hachyderm.io</a>
 
+##
+
 ![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdonald&show_icons=true&theme=ambient_gradient)
 
